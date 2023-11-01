@@ -18,10 +18,11 @@ Apply data visualization techniques to identify the patterns of the data.
 
 
 # CODE AND OUTPUT:
-Name: Sanjay G
+```
+Name: GEORGE PAUL TONY .C
 
-Reg no:212222230131
-
+Reg no: 212222040043
+```
 ```
 import seaborn as sns
 import pandas as pd
